@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @kiroil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Привет!
 
-<!---
-kiroil/kiroil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Я учу и практикую язык C#. 
+Не знаю как часто, но здесь будет выходить часть моих хороших работ по мере моего развития в этой теме.
+
+Как думаете, у меня все получится?
